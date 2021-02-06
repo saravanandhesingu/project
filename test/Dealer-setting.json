@@ -1,0 +1,7 @@
+{
+    "ComponentName": "ComponentNamechanged",
+    "fruit": "Cucumber",
+    "size": "Large",
+    "color": "Green",
+    "NightwatchConfig":"NightwatchConfigChanged"
+}
