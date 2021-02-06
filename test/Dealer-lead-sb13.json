@@ -1,0 +1,7 @@
+{
+    "ComponentName": "ComponentNameUnchanged",
+    "fruit": "Apple",
+    "size": "Large",
+    "color": "Red",
+    "NightwatchConfig":"NightwatchConfigChanged"
+}
