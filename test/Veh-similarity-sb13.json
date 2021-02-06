@@ -1,6 +1,6 @@
 {
-    "ComponentName": "ComponentNameUnchanged",
-    "fruit": "Apple",
+    "ComponentName": "ComponentNamechanged",
+    "fruit": "Pomogranate",
     "size": "Large",
     "color": "Red",
     "NightwatchConfig":"NightwatchConfigUnchanged"
